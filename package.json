@@ -1,0 +1,19 @@
+{
+  "name": "truth",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^79.0.0"
+  }
+}
